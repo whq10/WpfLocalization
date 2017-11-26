@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WpfLocalization">
+</Property><Property Name="Solution File" Value="D:\Other\whq10\study\WpfLocalization\WpfLocalization.sln">
+</Property><Property Name="Date" Value="2013年6月19日">
+</Property><Property Name="Time" Value="14:03">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WpfLocalization.sln" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization.sln">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\WpfLocalization.csproj" Description="Project file successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\WpfLocalization.csproj">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\BindingLocalizedValue.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\BindingLocalizedValue.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\FormattedLocalizedValue.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\FormattedLocalizedValue.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\LocalizationManager.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\LocalizationManager.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\LocalizationCallback.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\LocalizationCallback.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\LocalizationScope.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\LocalizationScope.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\LocalizedDependencyProperty.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\LocalizedDependencyProperty.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\LocalizedNonDependencyProperty.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\LocalizedNonDependencyProperty.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\LocalizedProperty.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\LocalizedProperty.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\LocalizedValue.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\LocalizedValue.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\LocBindingExtension.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\LocBindingExtension.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\LocExtension.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\LocExtension.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\MethodLocalizedValue.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\MethodLocalizedValue.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\LocalizationCallbackReference.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\LocalizationCallbackReference.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\ResourceFormattedLocalizedValue.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\ResourceFormattedLocalizedValue.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\ResourceLocalizedValue.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\ResourceLocalizedValue.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\ResourceManagerExtension.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\WpfLocalization\ResourceManagerExtension.cs">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\WpfLocalization.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WpfLocalization" Source="WpfLocalization\WpfLocalization.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Demo.csproj" Description="Project file successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Demo.csproj">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\App.xaml.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Window1.xaml.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Controls\TestControl.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Controls\TestControl.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\LocalResources.Designer.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Properties\LocalResources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\Settings.settings" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Resources\US.png" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Resources\US.png">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Resources\FR.png" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Resources\FR.png">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Resources\BG.png" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Resources\BG.png">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\LocalResourcesByName.resx" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Properties\LocalResourcesByName.resx">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\LocalResources.resx" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Properties\LocalResources.resx">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\Resources.resx" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\Resources.bg-BG.resx" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Properties\Resources.bg-BG.resx">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\Resources.fr-FR.resx" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Properties\Resources.fr-FR.resx">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Properties\Resources.en-US.resx" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Properties\Resources.en-US.resx">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\App.xaml" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\App.xaml">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Window1.xaml" Description="File successfully backed up as D:\Other\whq10\study\WpfLocalization\Backup\Demo\Window1.xaml">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Demo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Demo" Source="Demo\Demo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WpfLocalization.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WpfLocalization.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WpfLocalization" Source="WpfLocalization\WpfLocalization.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Demo" Source="Demo\Demo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
